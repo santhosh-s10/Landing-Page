@@ -1,1 +1,1 @@
-Click here https://landing-page-layouts.netlify.app to see a page.
+Click here (https://landing-page-layouts.netlify.app) to see a page.
